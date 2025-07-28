@@ -1,2 +1,1 @@
-# New
-Graph Data Mining for Fraud Detection in Paysim
+# Fraud Guard - Graph-Based Fraud Detection	                           
